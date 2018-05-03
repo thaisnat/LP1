@@ -1,0 +1,17 @@
+{
+  "b8ff842a870aa1bafa195bdfaee882d6": {
+    "timestamp": "2016-03-11T04:03:39.434190",
+    "feedback": "",
+    "summary": "........."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "bola\n1234\n",
+      "output": "bbbbboooolllaa\n"
+    }
+  ],
+  "activity_revision": "1.1.1",
+  "key": "122B1D3A000000",
+  "last_commit": "b8ff842a870aa1bafa195bdfaee882d6"
+}

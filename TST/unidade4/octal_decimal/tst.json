@@ -1,0 +1,17 @@
+{
+  "a8e6df43c8a247c1c81ab852019ac198": {
+    "timestamp": "2016-03-28T14:17:09.954820",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "4052\n",
+      "output": "4 * 8^3 = 2048\n0 * 8^2 = 0\n5 * 8^1 = 40\n2 * 8^0 = 2\n4052(8) = 2090(10)\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "135A7586000000",
+  "last_commit": "a8e6df43c8a247c1c81ab852019ac198"
+}

@@ -1,0 +1,13 @@
+{
+  "tst_files": [],
+  "tests": [
+    {
+      "category": "public",
+      "input": "12\n",
+      "output": "1\n2\n3\n4\n6\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "key": "129C397A000000",
+  "filename": "u4.py"
+}

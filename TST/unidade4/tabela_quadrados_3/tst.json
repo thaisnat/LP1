@@ -1,0 +1,13 @@
+{
+  "tst_files": [],
+  "tests": [
+    {
+      "category": "public",
+      "input": "15\n19\n",
+      "output": "15 225 *\n16 256\n17 289\n18 324 *\n19 361\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "11781D86000000",
+  "filename": "u43.py"
+}

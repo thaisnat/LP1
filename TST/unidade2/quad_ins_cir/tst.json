@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4.0\n",
+      "output": "Per\u00edmetro: 17.77153\n\u00c1rea: 25.13274\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "837c33a4442790af9590e3829ab8d6ff": {
+    "timestamp": "2016-02-22T13:16:01.644530",
+    "feedback": "",
+    "summary": ".."
+  },
+  "key": "1388CE1A000000",
+  "last_commit": "837c33a4442790af9590e3829ab8d6ff"
+}

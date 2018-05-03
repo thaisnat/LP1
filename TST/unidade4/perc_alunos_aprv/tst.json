@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n10.0\n4.0\nF\n8.0\n",
+      "output": "50% (2/4) de aprovados\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "14B08986000000"
+}

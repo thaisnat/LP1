@@ -1,0 +1,17 @@
+{
+  "95ece918006189064a2fcef2c7a20650": {
+    "timestamp": "2016-04-14T06:04:54.536980",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "2.30\n2.30\n10.40\n5.60\n1.20\n",
+      "output": "Saldo total do FIS: R$20.60.\nM\u00e9dia das contribui\u00e7\u00f5es: R$5.15.\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "131E5826000000",
+  "last_commit": "95ece918006189064a2fcef2c7a20650"
+}

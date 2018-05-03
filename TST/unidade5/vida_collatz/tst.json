@@ -1,0 +1,22 @@
+{
+  "5334debf34869a74c3b891ac2384bd30": {
+    "timestamp": "2016-04-11T14:05:57.021410",
+    "feedback": "",
+    "summary": "......"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "22\n",
+      "output": "16\n"
+    },
+    {
+      "category": "public",
+      "input": "16\n",
+      "output": "5\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "13C836E6000000",
+  "last_commit": "5334debf34869a74c3b891ac2384bd30"
+}

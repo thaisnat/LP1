@@ -1,0 +1,28 @@
+{
+  "8a85071ca7b6680a030b67e7e7583995": {
+    "timestamp": "2016-04-04T13:51:46.093750",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "R$ 1.00 para $\nfim\n",
+      "name": "exemplo2",
+      "output": "R$ 1.00 = $ 2.58\n"
+    }
+  ],
+  "362f81cc869efb7f0e4319b2a336f42a": {
+    "timestamp": "2016-04-04T13:46:18.702200",
+    "feedback": "",
+    "summary": "..FF"
+  },
+  "activity_revision": "1.0.1",
+  "key": "139FFF6A000000",
+  "last_commit": "8a85071ca7b6680a030b67e7e7583995",
+  "b55e2656b2e2f44a03f0a1dfe39e809b": {
+    "timestamp": "2016-04-04T13:48:17.199190",
+    "feedback": "",
+    "summary": ".FFF"
+  }
+}

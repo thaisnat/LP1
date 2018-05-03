@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1994\n1996\n68.93\n109.41\n112.90\n",
+      "output": "1 ano(s) abaixo (33% dos anos)\nm\u00e9dia dos anos abaixo: U$ 68.93\n2 ano(s) acima (67% dos anos)\nm\u00e9dia dos anos acima: U$ 111.16\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "11014304fb0ddbbe69b8b47e5fa4a89f": {
+    "timestamp": "2016-04-01T01:29:10.414280",
+    "feedback": "",
+    "summary": ".."
+  },
+  "key": "14DC39EA000000",
+  "last_commit": "11014304fb0ddbbe69b8b47e5fa4a89f"
+}

@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "10.0\n60\n",
+      "output": "Dist\u00e2ncia? Tempo?\nO ritmo do maratonista foi 6.00 min/km.\n"
+    },
+    {
+      "category": "public",
+      "input": "42.2\n180\n",
+      "output": "Dist\u00e2ncia? Tempo?\nO ritmo do maratonista foi 4.27 min/km.\n"
+    }
+  ],
+  "725780ae43fc41a21442350281cf36bd": {
+    "timestamp": "2016-02-22T14:04:12.864130",
+    "feedback": "",
+    "summary": "....."
+  },
+  "activity_revision": "1.1.0",
+  "key": "16F0CEFA000000",
+  "last_commit": "725780ae43fc41a21442350281cf36bd"
+}

@@ -1,0 +1,22 @@
+{
+  "de1a216459ca302cd85b23d478a6e5ae": {
+    "timestamp": "2016-03-16T03:50:02.203450",
+    "feedback": "",
+    "summary": "....."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "12344\n",
+      "output": "00048\n"
+    },
+    {
+      "category": "public",
+      "input": "12221\n",
+      "output": "00016\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "1382A98A000000",
+  "last_commit": "de1a216459ca302cd85b23d478a6e5ae"
+}

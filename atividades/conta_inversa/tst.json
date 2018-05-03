@@ -1,0 +1,20 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "onibus\n",
+      "output": "A palavra onibus cont\u00e9m 0 caractere(s) coincidente(s) com a sua inversa.\n"
+    },
+    {
+      "category": "public",
+      "input": "carro\n",
+      "output": "A palavra carro cont\u00e9m 1 caractere(s) coincidente(s) com a sua inversa.\n"
+    }
+  ],
+  "31f4d9faaf35faadcbec03590d3d9b7a": {
+    "timestamp": "2015-06-15T13:25:00.420230",
+    "summary": "....*"
+  },
+  "activity_revision": "1.1.0",
+  "key": "139A8F82000000"
+}

@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "7\nquantas\ndestas\npalavras\nsao\niniciadas\npor\nconsoantes\n",
+      "output": "total de palavras: 7\niniciadas por consoantes: 6 (85.71%)\n"
+    },
+    {
+      "category": "public",
+      "input": "4\nAlvaro\niniciadas\npor\nonsoantes\n",
+      "output": "total de palavras: 4\niniciadas por consoantes: 1 (25.00%)\n"
+    }
+  ],
+  "activity_revision": "1.1.2",
+  "e2ec75cf8b14b0c447083277a28978d5": {
+    "timestamp": "2016-03-22T20:22:16.191470",
+    "feedback": "",
+    "summary": "......"
+  },
+  "key": "145B449A000000",
+  "last_commit": "e2ec75cf8b14b0c447083277a28978d5"
+}

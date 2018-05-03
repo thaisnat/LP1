@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1010\n",
+      "output": "1 * 8 = 8\n0 * 4 = 0\n1 * 2 = 2\n0 * 1 = 0\n1010(2) = 10(10)\n"
+    }
+  ],
+  "activity_revision": "1.0.3",
+  "36bf80370c4e68ac2c7b04f27fdd226c": {
+    "timestamp": "2016-03-23T16:08:58.469500",
+    "feedback": "",
+    "summary": "...."
+  },
+  "key": "14E0A29A000000",
+  "last_commit": "36bf80370c4e68ac2c7b04f27fdd226c"
+}

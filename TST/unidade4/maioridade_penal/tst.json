@@ -1,0 +1,27 @@
+{
+  "f3fe261b7f884a9021f825ce89fa518d": {
+    "timestamp": "2016-03-23T11:38:55.314750",
+    "feedback": "",
+    "summary": "........."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "Jansen Italo Ana\n14 21 60\n",
+      "output": "Italo\nAna\n"
+    },
+    {
+      "category": "public",
+      "input": "Cristina Larissa\n10 11\n",
+      "output": ""
+    },
+    {
+      "category": "public",
+      "input": "Laura\n18\n",
+      "output": "Laura\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "1173C17A000000",
+  "last_commit": "f3fe261b7f884a9021f825ce89fa518d"
+}

@@ -1,0 +1,17 @@
+{
+  "94d653c3fbd131cb4af52f11ad1e7e2b": {
+    "timestamp": "2016-04-19T19:51:58.782450",
+    "feedback": "",
+    "summary": "......."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n8\n3\n9\n2\n0\n5\n-1\n",
+      "output": "[3, 2, 0]\n4\n[8, 9, 5]\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "15958E46000000",
+  "last_commit": "94d653c3fbd131cb4af52f11ad1e7e2b"
+}

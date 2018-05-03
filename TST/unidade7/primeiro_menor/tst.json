@@ -1,0 +1,42 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "7 5 3 9 11 8\n3\n",
+      "output": "sem menores que 3\n"
+    },
+    {
+      "category": "public",
+      "input": "7 5 3 9 11 8\n4\n",
+      "output": "primeiro menor que 4: 3\n"
+    },
+    {
+      "category": "public",
+      "files": [
+        "public_tests.py"
+      ],
+      "type": "script",
+      "script": "python public_tests.py"
+    }
+  ],
+  "65aba77a2096685add8d23a13624a4e7": {
+    "timestamp": "2016-05-05T17:10:51.577640",
+    "feedback": "",
+    "summary": "FFFFFFFFEEEEEEE"
+  },
+  "filename": "public_tests.py",
+  "tst_files": [],
+  "a1c4443328cd8078d88e7c4232e90941": {
+    "timestamp": "2016-05-13T01:48:51.417010",
+    "feedback": "",
+    "summary": ".FeFF.....E...."
+  },
+  "activity_revision": "1.0.0",
+  "key": "11CEE356000000",
+  "last_commit": "a1c4443328cd8078d88e7c4232e90941",
+  "ed80553772d5905d3b1f844a8513fcb3": {
+    "timestamp": "2016-05-09T13:27:41.223680",
+    "feedback": "",
+    "summary": "FFFFFFFFEEEEEEE"
+  }
+}

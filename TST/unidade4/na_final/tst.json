@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "5\n8.0\n5.0\n9.0\n6.0\n9.0\n",
+      "output": "2 (40.0%) alunos na final\nM\u00e9dia das notas: 5.5\n"
+    },
+    {
+      "category": "public",
+      "input": "5\n8.0\n9.0\n9.0\n7.0\n9.0\n",
+      "output": "0 (0.0%) alunos na final\n"
+    }
+  ],
+  "4fec338577eeb3d8e252e1d7ecdaa74c": {
+    "timestamp": "2016-03-23T15:46:15.804620",
+    "feedback": "",
+    "summary": ".."
+  },
+  "activity_revision": "1.0.0",
+  "key": "1489F6C6000000",
+  "last_commit": "4fec338577eeb3d8e252e1d7ecdaa74c"
+}

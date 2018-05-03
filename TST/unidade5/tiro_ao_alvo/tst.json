@@ -1,0 +1,32 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "85, 45\n35.0, 40.0\n-20, 15\n215, 181\n",
+      "output": "96.18\n53.15\n25.00\n--\nnum disparos: 3\ndistancia media: 58.11\n"
+    }
+  ],
+  "8ddd4f5935fb40932f1ad3fc9516e741": {
+    "timestamp": "2016-04-14T07:01:45.233470",
+    "feedback": "",
+    "summary": "..v.."
+  },
+  "37582d633992eb93a84d424657901b89": {
+    "timestamp": "2016-04-14T06:57:25.067550",
+    "feedback": "",
+    "summary": "..v.."
+  },
+  "122fb05be88f4f40c0eadd649090efcb": {
+    "timestamp": "2016-04-14T07:07:23.405050",
+    "feedback": "",
+    "summary": "..v.."
+  },
+  "activity_revision": "1.0.1",
+  "key": "171E5826000000",
+  "last_commit": "d3b3aaccba39ac251be5677fa97c72e9",
+  "d3b3aaccba39ac251be5677fa97c72e9": {
+    "timestamp": "2016-04-14T07:19:46.709370",
+    "feedback": "",
+    "summary": "..v.."
+  }
+}

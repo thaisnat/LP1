@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "10\n6\n29\n3\nfim\n",
+      "output": "12.00\n1 10\n2 6\n4 3\n"
+    }
+  ],
+  "0ed7acd9cd285a589cd9b02357cee02c": {
+    "timestamp": "2016-03-11T01:42:03.102730",
+    "feedback": "",
+    "summary": "....."
+  },
+  "41c2ff45a3f58081212dd9df6aa9c812": {
+    "timestamp": "2016-03-11T01:41:11.707830",
+    "feedback": "",
+    "summary": ".F.F."
+  },
+  "activity_revision": "1.0.1",
+  "key": "12502B6A000000",
+  "last_commit": "0ed7acd9cd285a589cd9b02357cee02c"
+}

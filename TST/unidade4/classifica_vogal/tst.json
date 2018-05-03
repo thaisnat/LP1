@@ -1,0 +1,17 @@
+{
+  "1bc5fcdfbde4e151c4eef42813bb55fd": {
+    "timestamp": "2016-03-15T20:51:19.818120",
+    "feedback": "",
+    "summary": "..."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "Prog1\n",
+      "output": "<P> nao\n<r> nao\n<o> sim\n<g> nao\n<1> nao\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "key": "1024598A000000",
+  "last_commit": "1bc5fcdfbde4e151c4eef42813bb55fd"
+}

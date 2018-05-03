@@ -1,0 +1,21 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "cadastrar\n022.222.333-99\nAntoine\nPosto 15\ncadastrar\n011.233.567.78\nJosephine\nPosto 1\nfinalizar\n",
+      "output": "Usu\u00e1rio cadastrado com sucesso.\nUsu\u00e1rio cadastrado com sucesso.\n"
+    },
+    {
+      "category": "public",
+      "input": "cadastrar\n022.222.333-99\nAntoine\nPosto 15\nconsultar\n022.222.333-99\nfinalizar\n",
+      "output": "Usu\u00e1rio cadastrado com sucesso.\nNome: Antoine\nCPF: 022.222.333-99\nSaldo: 300.00\n"
+    },
+    {
+      "category": "public",
+      "input": "atualizar\n022.222.333-80\nPosto 15\nfinalizar\n",
+      "output": "Usu\u00e1rio inexistente.\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "123DB3E6000000"
+}

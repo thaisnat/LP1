@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n10.0\n4.0\nF\n8.0\n",
+      "output": "50% (2/4) de aprovados\n"
+    }
+  ],
+  "9a18ed4af1f77e551882befcea6d5a3c": {
+    "timestamp": "2016-03-28T05:29:44.384020",
+    "feedback": "",
+    "summary": "..."
+  },
+  "2cd5ce8465664b1751023399d0bdf30e": {
+    "timestamp": "2016-03-28T05:27:39.035880",
+    "feedback": "",
+    "summary": "..F"
+  },
+  "activity_revision": "1.1.0",
+  "key": "14B08986000000",
+  "last_commit": "9a18ed4af1f77e551882befcea6d5a3c"
+}

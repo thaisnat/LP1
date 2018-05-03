@@ -1,0 +1,29 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "2\n5\n1\n2\n3\n4\n5\n",
+      "name": "d2",
+      "output": "Soma: 9.\n"
+    },
+    {
+      "category": "public",
+      "input": "3\n10\n1\n2\n3\n4\n5\n6   \n7\n8\n9\n10\n",
+      "name": "d1",
+      "output": "Soma: 22.\n"
+    }
+  ],
+  "d6663837eb523ef5ac73e1344ba3870b": {
+    "timestamp": "2016-03-28T08:04:22.301180",
+    "feedback": "",
+    "summary": "......"
+  },
+  "activity_revision": "1.0.1",
+  "key": "12D970A6000000",
+  "last_commit": "d6663837eb523ef5ac73e1344ba3870b",
+  "a4c5b22a6804732ff99b3288b57c81da": {
+    "timestamp": "2016-03-28T08:02:16.948910",
+    "feedback": "",
+    "summary": "..xx.x"
+  }
+}

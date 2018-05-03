@@ -1,0 +1,17 @@
+{
+  "21359ee563ad9c7f3a786edc71711417": {
+    "timestamp": "2016-03-28T08:36:05.797410",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "5\n",
+      "output": "    o\n   ooo\n  ooooo\n ooooooo\nooooooooo\n    o\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "11F3C1EA000000",
+  "last_commit": "21359ee563ad9c7f3a786edc71711417"
+}

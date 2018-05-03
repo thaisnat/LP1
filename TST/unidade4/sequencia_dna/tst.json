@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "ATCGAAGT\nATGCTTAT\n",
+      "output": "nao\n"
+    },
+    {
+      "category": "public",
+      "input": "ATCGAAGT\nAGCTAAGT\n",
+      "output": "sim\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "2c4a18eac7266017602046ed84604fb3": {
+    "timestamp": "2016-03-28T07:54:04.286600",
+    "feedback": "",
+    "summary": "........"
+  },
+  "key": "17FD89C6000000",
+  "last_commit": "2c4a18eac7266017602046ed84604fb3"
+}

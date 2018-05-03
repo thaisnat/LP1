@@ -1,0 +1,18 @@
+# coding: utf-8
+# Unidade 4 - Questão do Miniteste - Ientifica Caracteres
+# Thaís Nicoly - UFCG 2015.1 - 12/06/2015
+
+p1 = raw_input()
+p2 = raw_input()
+
+for letra in p2:
+    indice = ''
+    for i in range(len(p1)):
+        if letra == p1[i]:
+            indice += str(i) + ' '
+    if indice == '':
+        print -1
+    else:
+        print indice
+	
+	

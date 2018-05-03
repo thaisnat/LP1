@@ -1,0 +1,17 @@
+{
+  "6ff1385f8617e10801f4b618c541f022": {
+    "timestamp": "2016-03-28T08:19:47.366720",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "7931\n",
+      "output": "7931-9\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "12BEC8A6000000",
+  "last_commit": "6ff1385f8617e10801f4b618c541f022"
+}
